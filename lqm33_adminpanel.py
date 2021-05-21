@@ -11,9 +11,8 @@ print(renk+"""
 ██║     ██║▄▄ ██║██║╚██╔╝██║ ╚═══██╗ ╚═══██╗
 ███████╗╚██████╔╝██║ ╚═╝ ██║██████╔╝██████╔╝
 ╚══════╝ ╚══▀▀═╝ ╚═╝     ╚═╝╚═════╝ ╚═════╝
-instagram:lqm33.py
 
-LQM33 Tarafından M3T4L'in isteği üzerine kodlanmıştır.
+LQM33 Tarafından kodlanmıştır.
 
 
 """)
