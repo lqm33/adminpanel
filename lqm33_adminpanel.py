@@ -45,7 +45,7 @@ if islem=="1":
                 
                     try:
                         try:
-                            r=requests.post(url,timeout=1,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"})
+                            r=requests.get(url,timeout=1,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"})
                             a=r.status_code
                             a=str(a)
     
@@ -91,7 +91,7 @@ elif islem=="2":
                 
                     try:
                         try:
-                            r=requests.post(url,timeout=1,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"})
+                            r=requests.get(url,timeout=1,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"})
                             a=r.status_code
                             a=str(a)
     
@@ -136,7 +136,7 @@ elif islem=="3":
                 
                     try:
                         try:
-                            r=requests.post(url,timeout=1,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"})
+                            r=requests.get(url,timeout=1,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"})
                             a=r.status_code
                             a=str(a)
     
@@ -178,7 +178,7 @@ elif islem=="4":
                 
                     try:
                         try:
-                            r=requests.post(url,timeout=1,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"})
+                            r=requests.get(url,timeout=1,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"})
                             a=r.status_code
                             a=str(a)
     
